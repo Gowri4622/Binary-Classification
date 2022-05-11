@@ -27,8 +27,7 @@ Program to implement binary classification.
 Developed by: Gowri M
 RegisterNumber: 212220230019
 */
-```
-```python
+
 from numpy import where
 from collections import Counter
 from sklearn.datasets import make_blobs
